@@ -1,4 +1,4 @@
-#After trying to store data in variables then in json files then using Sql through the mysql2 package we applied the sequelize ORM in our node.js project.
+# After trying to store data in variables then in json files then using Sql through the mysql2 package we applied the sequelize ORM in our node.js project.
 Here are some screenshots showcasing the functionalities of the app
 
 ![alt text](./eshopImages/img1.png)
